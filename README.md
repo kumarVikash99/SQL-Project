@@ -7,11 +7,11 @@ In a competitive market like the restaurant industry, understanding the factors 
 **Content**
 This dataset is a subset of Yelp and has information about businesses across 8 metropolitan areas in the USA and Canada.
 Quantify the correlation between user engagement (reviews, tips, check-ins) and review count/average star using sql queries and Analyze the impact of sentiment on review count and average star rating.
-Find out the following
-Do restaurants with higher engagement tend to have higher ratings?
-Is there a correlation between the number of reviews,tips, and check-ins for a business?
-Is there a difference in the user engagement between high-rated and low-rated businesses?
-How does the sentiment of reviews and tips (useful, funny,cool) correlate with the success metrics of restaurants?
+**Find out the following**
+***Do restaurants with higher engagement tend to have higher ratings?***
+***Is there a correlation between the number of reviews,tips, and check-ins for a business?***
+***Is there a difference in the user engagement between high-rated and low-rated businesses?***
+***How does the sentiment of reviews and tips (useful, funny,cool) correlate with the success metrics of restaurants?***
 
 
 
