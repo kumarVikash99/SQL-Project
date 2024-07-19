@@ -1,29 +1,39 @@
-**About Dataset**
-
-**Context**
-
-In a competitive market like the restaurant industry, understanding the factors that influence business success is crucial for stakeholders.Utilizing the Yelp dataset, this project aims to investigate the relationship between user engagement (reviews, tips, and check-ins) and business success metrics (review count, ratings) for restaurants.
-
-**Content**
-This dataset is a subset of Yelp and has information about businesses across 8 metropolitan areas in the USA and Canada.
-Quantify the correlation between user engagement (reviews, tips, check-ins) and review count/average star using sql queries and Analyze the impact of sentiment on review count and average star rating.
-**Find out the following**
-***Do restaurants with higher engagement tend to have higher ratings?***
-***Is there a correlation between the number of reviews,tips, and check-ins for a business?***
-***Is there a difference in the user engagement between high-rated and low-rated businesses?***
-***How does the sentiment of reviews and tips (useful, funny,cool) correlate with the success metrics of restaurants?***
 
 
+# Yelp Dataset Analysis: Restaurant Success Metrics
 
+## Overview
 
+In a competitive market like the restaurant industry, understanding the factors that influence business success is crucial for stakeholders. This project leverages the Yelp dataset to investigate the relationship between user engagement metrics (reviews, tips, check-ins) and business success metrics (review count, ratings) for restaurants.
 
-**Objective:**
+## Dataset
 
-Utilize data analysis skills to analyse and  investigate the relationship between user engagement (reviews, tips, and check-ins) and business success metrics (review count, ratings) for restaurants.
+The dataset is a subset of Yelp data covering businesses across 8 metropolitan areas in the USA and Canada.
 
+## Objectives
 
-**Summary:**
-Utilizing insights from the analysis of various metrics such as user engagement, sentiment of reviews,peak hours, and the impact of elite users, businesses can make informed decisions to drive success.Collaborating with elite users and leveraging their influence can amplify promotional efforts, increase brand awareness, and drive customer acquisition.
-Businesses can adjust their operating hours or introduce special promotions to capitalize on the increased demand during peak hours.
-Less successful businesses may need to focus on strategies to enhance user engagement over time,such as improving service quality, responding to customer feedback.
-Cities with high success scores presents opportunities for restaurant chains to expand or invest further.
+1. **Quantify the Correlation**:
+   - Analyze the correlation between user engagement (reviews, tips, check-ins) and business success metrics (review count, average star rating) using SQL queries.
+   - Investigate the impact of review sentiment (useful, funny, cool) on review count and average star rating.
+
+2. **Key Questions**:
+   - Do restaurants with higher engagement tend to have higher ratings?
+   - Is there a correlation between the number of reviews, tips, and check-ins for a business?
+   - Is there a difference in user engagement between high-rated and low-rated businesses?
+   - How does the sentiment of reviews and tips (useful, funny, cool) correlate with the success metrics of restaurants?
+
+## Analysis and Insights
+
+- **User Engagement**: Determine if increased user engagement correlates with higher ratings and review counts.
+- **Correlation Analysis**: Examine the relationships between the number of reviews, tips, and check-ins.
+- **Engagement Differences**: Compare user engagement metrics between high-rated and low-rated businesses.
+- **Sentiment Impact**: Analyze how the sentiment of reviews and tips impacts the success metrics of restaurants.
+
+## Summary
+
+By analyzing metrics such as user engagement, review sentiment, peak hours, and the influence of elite users, businesses can make data-driven decisions to drive success. Key insights include:
+
+- **Elite Users**: Collaborating with elite users can enhance promotional efforts, boost brand awareness, and drive customer acquisition.
+- **Operational Adjustments**: Adjusting operating hours or introducing special promotions can capitalize on peak hours.
+- **Engagement Strategies**: Less successful businesses might focus on strategies to enhance user engagement, such as improving service quality and responding to customer feedback.
+- **Expansion Opportunities**: High success scores
